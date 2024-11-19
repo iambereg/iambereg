@@ -3,8 +3,8 @@
   <h3>Im a data/product analyst</h3>
 </div>
 
-<a href="linked-url">
-  <img src="https://cdn-icons-png.flaticon.com/512/121/121521.png" alt="Telegram"/>
+<a href="https://t.me/da_bereg">
+  <img src="https://static-00.iconduck.com/assets.00/telegram-icon-1024x862-5ov8mojz.png" alt="Telegram"/>
 </a>
 <!--
 **iambereg/iambereg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
