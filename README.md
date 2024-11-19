@@ -1,5 +1,7 @@
-## Hi there 👋
-
+<div id="header" align="center">
+  <h1>Hi there 👋</h1>
+  <h3>Im a data/product analyst</h3>
+</div>
 <!--
 **iambereg/iambereg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
