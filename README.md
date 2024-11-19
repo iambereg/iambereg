@@ -2,6 +2,10 @@
   <h1>Hi there 👋</h1>
   <h3>Im a data/product analyst</h3>
 </div>
+
+<a href="linked-url">
+  <img src="https://cdn-icons-png.flaticon.com/512/121/121521.png" alt="Telegram"/>
+</a>
 <!--
 **iambereg/iambereg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
