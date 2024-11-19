@@ -3,9 +3,11 @@
   <h3>Im a data/product analyst</h3>
 </div>
 
-<a href="https://t.me/da_bereg">
-  <img src="https://img.icons8.com/?size=100&id=9R1sV3QvY18K&format=png&color=000000" alt="Telegram-black"/>
-</a>
+<div id="socials" align="center">
+  <a href="https://t.me/da_bereg">
+    <img src="https://img.icons8.com/?size=100&id=lUktdBVdL4Kb&format=png&color=000000" alt="Telegram-black"/>
+  </a>
+</div>
 <!--
 **iambereg/iambereg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
